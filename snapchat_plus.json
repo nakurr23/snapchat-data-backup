@@ -1,0 +1,18 @@
+{
+  "": [
+    {
+      "Purchase Date": "2026-04-14 11:18:46 UTC",
+      "Purchase Type": "Annual Subscription",
+      "Purchase Provider": "Google",
+      "Price": 0.0,
+      "End Date (if applicable)": "2027-04-14 11:18:40 UTC"
+    },
+    {
+      "Purchase Date": "2025-12-17 00:40:03 UTC",
+      "Purchase Type": "",
+      "Purchase Provider": "Snap",
+      "Price": 0.0,
+      "End Date (if applicable)": "2025-12-24 00:40:03 UTC"
+    }
+  ]
+}

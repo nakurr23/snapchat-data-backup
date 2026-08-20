@@ -1,0 +1,182 @@
+{
+  "App Profile": {
+    "Country": "NG",
+    "Creation Time": "2025-10-17 23:30:02 UTC",
+    "Account Creation Country": "",
+    "Platform Version": "",
+    "In-app Language": ""
+  },
+  "Demographics": {
+    "Cohort Age": "AGE_18_TO_20",
+    "Derived Ad Demographic": "MALE"
+  },
+  "Subscriptions": [],
+  "Engagement": [
+    {
+      "Event": "Application Opens",
+      "Occurrences": 230
+    },
+    {
+      "Event": "Story Views",
+      "Occurrences": 1
+    },
+    {
+      "Event": "Snaps Posted to Story",
+      "Occurrences": 5
+    },
+    {
+      "Event": "Snaps Viewed in a Story",
+      "Occurrences": 1297
+    },
+    {
+      "Event": "Story Ads Viewed",
+      "Occurrences": 416
+    },
+    {
+      "Event": "Snap Views",
+      "Occurrences": 201
+    },
+    {
+      "Event": "Snap Sends",
+      "Occurrences": 20
+    },
+    {
+      "Event": "Chats Sent",
+      "Occurrences": 278
+    },
+    {
+      "Event": "Chats Viewed",
+      "Occurrences": 281
+    },
+    {
+      "Event": "Discover Editions Viewed",
+      "Occurrences": 3
+    },
+    {
+      "Event": "Discover Snap Views",
+      "Occurrences": 57
+    },
+    {
+      "Event": "Direct Snaps Created",
+      "Occurrences": 25
+    },
+    {
+      "Event": "Direct Snaps Viewed",
+      "Occurrences": 57
+    },
+    {
+      "Event": "Geofilter Snap Sends",
+      "Occurrences": 1
+    },
+    {
+      "Event": "Geofilter Story Snaps Viewed",
+      "Occurrences": 87
+    }
+  ],
+  "Discover Channels Viewed": [
+    {
+      "Channel Name": "1c5ff29f-9719-4b21-b092-e021ab562a20"
+    },
+    {
+      "Channel Name": "799f98da-ff40-47b8-a9f1-2c729fa6ef61"
+    }
+  ],
+  "Breakdown of Time Spent on App": [
+    "Camera: 8.37%",
+    "Discover: 23.87%",
+    "Map: 6.99%",
+    "Memories: 1.15%",
+    "Messaging: 55.98%",
+    "Others: 2.24%",
+    "Profile: 1.40%"
+  ],
+  "Ads You Interacted With": [
+    {
+      "Advertiser Name": "Just SirOSB",
+      "Date": "2026-03-30"
+    },
+    {
+      "Advertiser Name": "Elementary Innovation Pte. Ltd.",
+      "Date": "2026-08-08"
+    }
+  ],
+  "Interest Categories": [],
+  "Content Categories": [
+    "Sports/American Football",
+    "Hobbies & Interests/Photography",
+    "Music Appreciation/EDM",
+    "Comedy/Pranks",
+    "Sports",
+    "Lifestyle/Internet Culture",
+    "Women's Lifestyle",
+    "Fitness & Health/Bodybuilding",
+    "Diaries & Daily Life/Hot Takes & Opinions",
+    "Fitness & Health/Routines & Workouts",
+    "Music Appreciation/Urban & Hip-Hop",
+    "Diaries & Daily Life/Music Fandom, Festivals & Concerts",
+    "Pop Culture & Celebrity News",
+    "Fashion & Style/Outfits & Modeling",
+    "Comedy",
+    "Sports/Soccer",
+    "Fun & Trivia",
+    "Diaries & Daily Life/Weird & WTF",
+    "Learning & Educational",
+    "Diaries & Daily Life/Street Interviews & Social Experiments",
+    "Sports/Basketball",
+    "Fitness & Health",
+    "Music Appreciation",
+    "Fashion & Style",
+    "Film & TV Fandom/Vlogging & Shortform Media Fandom",
+    "Sports/Baseball",
+    "Pop Culture & Celebrity News/Celebrity Gossip",
+    "Film & TV Fandom/Documentary Fandom",
+    "Travel",
+    "Men's Lifestyle"
+  ],
+  "Geographic Information": [],
+  "Interactions": {
+    "Web Interactions": [
+      "coursiv.io",
+      "zoominfo.com",
+      "lyst.com",
+      "stockx.com",
+      "snapchat.com",
+      "ecstuning.com",
+      "nytimes.com",
+      "themillionroses.com",
+      "etsy.com",
+      "davidsbridal.com",
+      "skechers.com",
+      "truthfinder.com",
+      "exness.com",
+      "pristineauction.com",
+      "zillow.com",
+      "adobe.com",
+      "fareway.com",
+      "jcpenney.com",
+      "artlist.io",
+      "lowes.com",
+      "macys.com",
+      "pocketoption.com",
+      "quidax.io",
+      "prh.com",
+      "hulu.com",
+      "vogue.com",
+      "fifa.com",
+      "clicktech.com",
+      "mlb.com",
+      "preply.com",
+      "tieks.com"
+    ],
+    "App Interactions": []
+  },
+  "Off-Platform Sharing": [
+    {
+      "Share Destination": "Camera Roll",
+      "Date": "2026-07-08 00:00:00 UTC",
+      "Media Type": "Image",
+      "Shared URL": ""
+    }
+  ],
+  "Mobile Ad Id": ""
+}

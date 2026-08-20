@@ -1,0 +1,107 @@
+{
+  "Outgoing Calls": [
+    {
+      "Date & Time": "2026-07-26 00:35:30 UTC",
+      "Type": "AUDIO",
+      "People in Chat": 2,
+      "Result": "Call Succeeded",
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 9,
+      "Network": "MOBILE"
+    },
+    {
+      "Date & Time": "2026-07-26 00:35:26 UTC",
+      "Type": "AUDIO",
+      "People in Chat": 2,
+      "Result": "Call Initiated",
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 22,
+      "Network": "MOBILE"
+    },
+    {
+      "Date & Time": "2026-07-26 00:35:21 UTC",
+      "Type": "AUDIO",
+      "People in Chat": 2,
+      "Result": "Call Initiated",
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 54,
+      "Network": "MOBILE"
+    },
+    {
+      "Date & Time": "2026-07-26 00:35:21 UTC",
+      "Type": "VIDEO",
+      "People in Chat": 2,
+      "Result": "Call Initiated",
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 4,
+      "Network": "MOBILE"
+    },
+    {
+      "Date & Time": "2026-07-26 00:35:15 UTC",
+      "Type": "AUDIO",
+      "People in Chat": 2,
+      "Result": "Call Initiated",
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 5,
+      "Network": "MOBILE"
+    }
+  ],
+  "Incoming Calls": [
+    {
+      "Date & Time": "2026-07-26 00:35:21 UTC",
+      "Type": "AUDIO",
+      "People in Chat": 2,
+      "Result": "Call Succeeded",
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 8,
+      "Network": "MOBILE"
+    },
+    {
+      "Date & Time": "2026-07-26 00:35:15 UTC",
+      "Type": "AUDIO",
+      "People in Chat": 2,
+      "Result": "Call Succeeded",
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 30,
+      "Network": "MOBILE"
+    }
+  ],
+  "Completed Calls": [
+    {
+      "Date & Time": "2026-07-26 00:35:30 UTC",
+      "Type": "AUDIO",
+      "People in Chat": 2,
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 169,
+      "Network": "MOBILE"
+    },
+    {
+      "Date & Time": "2026-07-26 00:35:21 UTC",
+      "Type": "AUDIO",
+      "People in Chat": 2,
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 128,
+      "Network": "MOBILE"
+    },
+    {
+      "Date & Time": "2026-07-26 00:35:15 UTC",
+      "Type": "AUDIO",
+      "People in Chat": 2,
+      "City": "kaduna",
+      "Country": "NG",
+      "Length (sec)": 32,
+      "Network": "MOBILE"
+    }
+  ],
+  "Chat Sessions": [],
+  "Game Sessions": []
+}
